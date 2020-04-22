@@ -13,3 +13,5 @@ setor.R: Productivity evolution by sector of Brazil from 1950 to 2010
 
 graph_indice_votos.R: Social Distancing Index x Votes for Bolsonaro (Quarantine COVID 2020)
 
+graph_time_series.R: Gráfico Social Distancing Index per day 
+
