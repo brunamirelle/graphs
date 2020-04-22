@@ -11,3 +11,5 @@ produtividade_paises.R: Productivity evolution from 1980 to 2010 between countri
 
 setor.R: Productivity evolution by sector of Brazil from 1950 to 2010
 
+graph_indice_votos.R: Social Distancing Index x Votes for Bolsonaro (Quarantine COVID 2020)
+
